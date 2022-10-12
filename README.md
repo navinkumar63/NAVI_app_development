@@ -1,2 +1,2 @@
 # NAVI_app_development
-This is initial code developentm
+This is initial code development
